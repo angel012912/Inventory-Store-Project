@@ -1,4 +1,4 @@
-#  <img src="https://libreria-ditesa.com/media/catalog/category/pngwing.com.png" alt="ITESM Logo" style="float: center; margin-right: 50px;" width="200"/> POO Integrating Project
+#  <img src="https://libreria-ditesa.com/media/catalog/category/pngwing.com.png" alt="ITESM Logo" style="float: center; margin-right: 50px;" width="200"/> Store Inventory
 
 ## Description
 This was the final project for the subject "Object Oriented Computational Thinking" where I was asked to make a simulation of a software for a clothes store using Object Oriented Programming by definning the UML for the classes that I implemented for the main application. 
